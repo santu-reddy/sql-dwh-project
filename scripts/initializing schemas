@@ -10,3 +10,12 @@ CREATE DATABASE datawarehouse_db
     TABLESPACE = pg_default
     CONNECTION LIMIT = -1
     IS_TEMPLATE = False;
+
+
+#Creating Schemas
+
+create schema bronze;
+
+create schema silver;
+
+create schema gold;
