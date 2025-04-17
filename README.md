@@ -14,9 +14,9 @@ The Medallion Architecture is a data design pattern that organizes data into thr
 
 🥇 Gold Layer – Aggregated, refined data optimized for reporting and analytics.
 
-# By structuring data this way, we achieve: Clear separation of raw and processed data , Easier debugging and data lineage tracing Scalable, modular pipelines for real-time or batch processing
+##### By structuring data this way, we achieve: Clear separation of raw and processed data , Easier debugging and data lineage tracing Scalable, modular pipelines for real-time or batch processing
 
-## Project Objective :To build a scalable and modular data warehouse for efficient data ingestion, transformation, and analytics.
+### Project Objective :To build a scalable and modular data warehouse for efficient data ingestion, transformation, and analytics.
 
 This project involves:
 
